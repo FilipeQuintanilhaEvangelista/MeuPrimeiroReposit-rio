@@ -4,6 +4,7 @@ void imprimirBob(){
 	printf("Bob");
 }
 void imprimirAlice(){
+		printf("Alice");
 }
 
 
